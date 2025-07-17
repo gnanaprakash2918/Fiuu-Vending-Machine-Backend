@@ -1,4 +1,4 @@
-package fiuu;
+package dto;
 
 import lombok.Data;
 

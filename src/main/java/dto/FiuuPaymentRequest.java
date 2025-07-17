@@ -1,4 +1,4 @@
-package fiuu;
+package dto;
 
 import lombok.Builder;
 import lombok.Data;
