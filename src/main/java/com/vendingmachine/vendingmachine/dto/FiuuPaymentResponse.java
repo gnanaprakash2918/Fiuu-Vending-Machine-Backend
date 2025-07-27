@@ -1,4 +1,4 @@
-package dto;
+package com.vendingmachine.vendingmachine.dto;
 
 import lombok.Data;
 

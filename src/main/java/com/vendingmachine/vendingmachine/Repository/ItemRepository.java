@@ -1,6 +1,6 @@
-package Repository;
+package com.vendingmachine.vendingmachine.Repository;
 
-import model.Item;
+import com.vendingmachine.vendingmachine.model.Item;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,7 +1,7 @@
 // OrderRepository.java
-package Repository;
+package com.vendingmachine.vendingmachine.Repository;
 
-import model.Order;
+import com.vendingmachine.vendingmachine.model.Order;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
